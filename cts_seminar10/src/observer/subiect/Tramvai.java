@@ -1,4 +1,4 @@
-package subiect;
+package observer.subiect;
 
 public class Tramvai extends Subiect{
     private int nrTramvai;

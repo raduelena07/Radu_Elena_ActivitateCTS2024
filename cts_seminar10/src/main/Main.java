@@ -4,9 +4,9 @@ import observer.Client;
 import strategy.CardBancar;
 import strategy.SMS;
 import strategy.Validator;
-import subiect.Autobuz;
-import subiect.Subiect;
-import subiect.Tramvai;
+import observer.subiect.Autobuz;
+import observer.subiect.Subiect;
+import observer.subiect.Tramvai;
 
 
 public class Main {

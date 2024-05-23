@@ -1,4 +1,4 @@
-package subiect;
+package observer.subiect;
 
 import observer.Observer;
 
