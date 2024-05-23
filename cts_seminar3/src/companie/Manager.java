@@ -54,6 +54,7 @@ public class Manager {
     }
 
     public static Manager getInstance(){
+
         return getInstance("Nume", 6000, 15);
     }
 }
