@@ -31,7 +31,7 @@ public class Client implements AbstractPrototype{
         this.listaAccesorii.forEach(accesoriu->{
             newClient.listaAccesorii.add(accesoriu);
         });
-        return null;
+        return newClient;
     }
 
     @Override
